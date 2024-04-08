@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  background: #112;
+  color: #ccf;
+}
+
+main {
+  max-width: 500px;
+
+  padding: 3rem;
+  margin: 100px auto 0;
+  border-radius: 10%;
+  border: 0.5rem dotted #ccf;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
